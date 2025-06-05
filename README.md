@@ -117,7 +117,7 @@ git clone https://github.com/seu-usuario/MedWay.git](https://github.com/Th3PL/GS
 | Nome          | RM       |
 |----------------|----------|
 | João Pedro Borsato Cruz | RM550294  |
-| Maria Fernanda Vieira de Camargo | RM9796  |
+| Maria Fernanda Vieira de Camargo | RM97956  |
 | Pedro Lucas de Andrade Nunes | RM550366  |
 
 
