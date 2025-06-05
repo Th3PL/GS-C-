@@ -521,42 +521,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pluca\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/pedro/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\MedWay.Controller.csproj",
+      "projectUniqueName": "/home/pedro/FIAP/C#/GS-C-/MedWay.Controller/MedWay.Controller.csproj",
       "projectName": "MedWay.Controller",
-      "projectPath": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\MedWay.Controller.csproj",
-      "packagesPath": "C:\\Users\\pluca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\obj\\",
+      "projectPath": "/home/pedro/FIAP/C#/GS-C-/MedWay.Controller/MedWay.Controller.csproj",
+      "packagesPath": "/home/pedro/.nuget/packages/",
+      "outputPath": "/home/pedro/FIAP/C#/GS-C-/MedWay.Controller/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\pluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/pedro/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\MedWay.Model.csproj": {
-              "projectPath": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\MedWay.Model.csproj"
+            "/home/pedro/FIAP/C#/GS-C-/MedWay.Model/MedWay.Model.csproj": {
+              "projectPath": "/home/pedro/FIAP/C#/GS-C-/MedWay.Model/MedWay.Model.csproj"
             },
-            "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\MedWay.Repository.csproj": {
-              "projectPath": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\MedWay.Repository.csproj"
+            "/home/pedro/FIAP/C#/GS-C-/MedWay.Repository/MedWay.Repository.csproj": {
+              "projectPath": "/home/pedro/FIAP/C#/GS-C-/MedWay.Repository/MedWay.Repository.csproj"
             }
           }
         }
@@ -570,8 +563,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -592,7 +584,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -26,7 +26,7 @@
         "runtime": {
           "lib/net8.0/Oracle.ManagedDataAccess.dll": {
             "assemblyVersion": "23.1.0.0",
-            "fileVersion": "23.1.0.0"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -54,7 +54,7 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "8.0.23.53103"
           },
           "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll": {
             "rid": "win",
@@ -143,7 +143,7 @@
         },
         "runtime": {
           "MedWay.Model.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -155,7 +155,7 @@
         },
         "runtime": {
           "MedWay.Repository.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

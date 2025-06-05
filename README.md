@@ -108,8 +108,8 @@ git clone https://github.com/seu-usuario/MedWay.git](https://github.com/Th3PL/GS
 
 ## 📸 Demonstração
 
-![img_demonstração](./)
-
+![img_demonstração_login](./img/login.png)
+![img_demonstração_menu](./img/menu.png)
 ---
 
 ## 👨‍💻 Desenvolvido por

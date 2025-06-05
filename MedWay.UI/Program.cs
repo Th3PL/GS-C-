@@ -17,7 +17,7 @@ class Program
         while (!logado)
         {
             Console.Clear();
-            Console.WriteLine("=== 🔐 LOGIN OBRIGATÓRIO ===");
+            Console.WriteLine("=== 🔐 MedWay ===");
             Console.WriteLine("1 - Fazer Login");
             Console.WriteLine("2 - Cadastrar Usuário");
             Console.WriteLine("0 - Sair");
