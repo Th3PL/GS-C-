@@ -97,7 +97,7 @@ private readonly string _connectionString =
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/MedWay.git
+git clone https://github.com/seu-usuario/MedWay.git](https://github.com/Th3PL/GS-C-
 ```
 2. Abra no Visual Studio ou Visual Studio Code.
 3. Restaure os pacotes NuGet (`Oracle.ManagedDataAccess`).
@@ -108,7 +108,7 @@ git clone https://github.com/seu-usuario/MedWay.git
 
 ## 📸 Demonstração
 
-*(Adicione aqui um print real do console após rodar o projeto)*
+![img_demonstração](./)
 
 ---
 
