@@ -1,0 +1,12 @@
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\bin\Debug\net8.0\MedWay.Model.deps.json
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\bin\Debug\net8.0\MedWay.Model.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\bin\Debug\net8.0\MedWay.Model.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.AssemblyInfoInputs.cache
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.AssemblyInfo.cs
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.csproj.CoreCompileInputs.cache
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\refint\MedWay.Model.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\ref\MedWay.Model.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Model\obj\Debug\net8.0\MedWay.Model.csproj.AssemblyReference.cache

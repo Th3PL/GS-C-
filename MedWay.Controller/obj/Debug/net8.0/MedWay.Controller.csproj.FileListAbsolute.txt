@@ -1,0 +1,17 @@
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Controller.deps.json
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Controller.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Controller.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.AssemblyInfoInputs.cache
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.AssemblyInfo.cs
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.csproj.CoreCompileInputs.cache
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\refint\MedWay.Controller.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\ref\MedWay.Controller.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Model.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Repository.dll
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Model.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\bin\Debug\net8.0\MedWay.Repository.pdb
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.Controller.csproj.AssemblyReference.cache
+C:\Users\pluca\source\repos\GS-C#\MedWay.Controller\obj\Debug\net8.0\MedWay.C.07CCD94E.Up2Date

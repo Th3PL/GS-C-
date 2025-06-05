@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pluca\\source\\repos\\GS-C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B4BCA0-2CF3-41BA-8553-A36CC02E998F}|MedWay.UI\\MedWay.UI.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B4BCA0-2CF3-41BA-8553-A36CC02E998F}|MedWay.UI\\MedWay.UI.csproj|solutionrelative:medway.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\informacaoemergencialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\informacaoemergencialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\dicacomunitariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\dicacomunitariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\especialidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\medway.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\medway.controller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\medway.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\medway.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\dicacomunitariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\dicacomunitariarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\especialidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\especialidaderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\informacaoemergencialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\informacaoemergencialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.controller\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8B107B-CFD0-4640-AC7D-B94F60A5341C}|MedWay.Controller\\MedWay.Controller.csproj|solutionrelative:medway.controller\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\medway.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\medway.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F9A95-4C82-464E-841A-E7ACBD4E0662}|MedWay.Repository\\MedWay.Repository.csproj|solutionrelative:medway.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\dicacomunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\dicacomunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\especialidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\tiposanguineo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\tiposanguineo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\informacaoemergencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\informacaoemergencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|c:\\users\\pluca\\source\\repos\\gs-c#\\medway.model\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A88B79-2008-4C83-8018-4257C22DDF2E}|MedWay.Model\\MedWay.Model.csproj|solutionrelative:medway.model\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Hospital.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\Hospital.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Hospital.cs",
+              "RelativeToolTip": "MedWay.Model\\Hospital.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:12:38.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.UI\\Program.cs",
+              "RelativeDocumentMoniker": "MedWay.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.UI\\Program.cs*",
+              "RelativeToolTip": "MedWay.UI\\Program.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:56:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "MedWay.Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:33:23.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\UsuarioController.cs*",
+              "RelativeToolTip": "MedWay.Controller\\UsuarioController.cs*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:52:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\HospitalRepository.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\HospitalRepository.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\HospitalRepository.cs",
+              "RelativeToolTip": "MedWay.Repository\\HospitalRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:37:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\HospitalController.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\HospitalController.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\HospitalController.cs",
+              "RelativeToolTip": "MedWay.Controller\\HospitalController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:54:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DicaComunitariaController.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\DicaComunitariaController.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\DicaComunitariaController.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\DicaComunitariaController.cs",
+              "RelativeToolTip": "MedWay.Controller\\DicaComunitariaController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:55:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Usuario.cs",
+              "RelativeToolTip": "MedWay.Model\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:11:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EspecialidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\EspecialidadeController.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\EspecialidadeController.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\EspecialidadeController.cs",
+              "RelativeToolTip": "MedWay.Controller\\EspecialidadeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:55:13.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedWay.Controller",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\MedWay.Controller.csproj",
+              "RelativeDocumentMoniker": "MedWay.Controller\\MedWay.Controller.csproj",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\MedWay.Controller.csproj",
+              "RelativeToolTip": "MedWay.Controller\\MedWay.Controller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T14:52:22.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformacaoEmergencialController.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\InformacaoEmergencialController.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\InformacaoEmergencialController.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\InformacaoEmergencialController.cs",
+              "RelativeToolTip": "MedWay.Controller\\InformacaoEmergencialController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:55:57.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EspecialidadeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\EspecialidadeRepository.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\EspecialidadeRepository.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\EspecialidadeRepository.cs",
+              "RelativeToolTip": "MedWay.Repository\\EspecialidadeRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:37:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DicaComunitariaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\DicaComunitariaRepository.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\DicaComunitariaRepository.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\DicaComunitariaRepository.cs",
+              "RelativeToolTip": "MedWay.Repository\\DicaComunitariaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:37:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MedWay.Model",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\MedWay.Model.csproj",
+              "RelativeDocumentMoniker": "MedWay.Model\\MedWay.Model.csproj",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\MedWay.Model.csproj",
+              "RelativeToolTip": "MedWay.Model\\MedWay.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T14:13:29.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InformacaoEmergencialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\InformacaoEmergencialRepository.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\InformacaoEmergencialRepository.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\InformacaoEmergencialRepository.cs",
+              "RelativeToolTip": "MedWay.Repository\\InformacaoEmergencialRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:38:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\Class1.cs",
+              "RelativeDocumentMoniker": "MedWay.Controller\\Class1.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Controller\\Class1.cs",
+              "RelativeToolTip": "MedWay.Controller\\Class1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:43:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedWay.Repository",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\MedWay.Repository.csproj",
+              "RelativeDocumentMoniker": "MedWay.Repository\\MedWay.Repository.csproj",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\MedWay.Repository.csproj",
+              "RelativeToolTip": "MedWay.Repository\\MedWay.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T14:34:35.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "MedWay.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Repository\\Class1.cs",
+              "RelativeToolTip": "MedWay.Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:33:04.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DicaComunitaria.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\DicaComunitaria.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\DicaComunitaria.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\DicaComunitaria.cs",
+              "RelativeToolTip": "MedWay.Model\\DicaComunitaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:21:00.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Especialidade.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Especialidade.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\Especialidade.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\Especialidade.cs",
+              "RelativeToolTip": "MedWay.Model\\Especialidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:48.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TipoSanguineo.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\TipoSanguineo.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\TipoSanguineo.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\TipoSanguineo.cs",
+              "RelativeToolTip": "MedWay.Model\\TipoSanguineo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:30.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InformacaoEmergencial.cs",
+              "DocumentMoniker": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\InformacaoEmergencial.cs",
+              "RelativeDocumentMoniker": "MedWay.Model\\InformacaoEmergencial.cs",
+              "ToolTip": "C:\\Users\\pluca\\source\\repos\\GS-C#\\MedWay.Model\\InformacaoEmergencial.cs",
+              "RelativeToolTip": "MedWay.Model\\InformacaoEmergencial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:20:14.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
