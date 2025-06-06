@@ -14,7 +14,16 @@ O **MedWay** é um sistema que simula um aplicativo de suporte à comunidade dur
 - 👤 **Visualizar informações do usuário logado (nome, idade, tipo sanguíneo, localização)**
 
 O sistema simula geolocalização aleatória a cada login, alterando os dados apresentados de acordo com a cidade detectada.
+---
+## 🎥 Demonstração do Projeto
 
+Assista à apresentação completa do projeto **MedWay**, com explicações sobre suas funcionalidades, diferenciais e uma simulação prática do sistema em funcionamento:
+
+🔗 **[Clique aqui para assistir ao vídeo de demonstração](https://youtu.be/nV2LTIE_g0w)**
+
+> O vídeo apresenta o fluxo de cadastro, login com geolocalização simulada, listagem de hospitais por cidade, especialidades, dicas preventivas e informações de emergência. Ideal para entender o propósito e o funcionamento da solução proposta.
+
+---
 ---
 
 ## 🔧 Funcionalidades
