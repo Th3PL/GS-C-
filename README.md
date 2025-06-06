@@ -21,8 +21,11 @@ Assista à apresentação completa do projeto **MedWay**, com explicações sobr
 
 🔗 **[Clique aqui para assistir ao vídeo de demonstração](https://youtu.be/nV2LTIE_g0w)**
 
-> O vídeo apresenta o fluxo de cadastro, login com geolocalização simulada, listagem de hospitais por cidade, especialidades, dicas preventivas e informações de emergência. Ideal para entender o propósito e o funcionamento da solução proposta.
 
+---
+## 📄 Documentação do Projeto
+
+🔗 **[Clique aqui para acessar o .doc completo do MedWay](https://docs.google.com/document/d/1HxZllfyJyNNcv_TYzpwnYw0F6XAJUKnnPx2kN5tK0yk/edit?usp=sharing)**
 ---
 
 ## 🔧 Funcionalidades
