@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedWay.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf1fd5edcf27aebbd41df21fe28ff9ccbad5583")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ddc622e4ab0269f7656aac4c757859a59e9709")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedWay.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedWay.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,7 +24,6 @@ Assista à apresentação completa do projeto **MedWay**, com explicações sobr
 > O vídeo apresenta o fluxo de cadastro, login com geolocalização simulada, listagem de hospitais por cidade, especialidades, dicas preventivas e informações de emergência. Ideal para entender o propósito e o funcionamento da solução proposta.
 
 ---
----
 
 ## 🔧 Funcionalidades
 
@@ -39,6 +38,11 @@ Assista à apresentação completa do projeto **MedWay**, com explicações sobr
   - Idade (calculada automaticamente)
   - Tipo sanguíneo
   - Cidade e Estado (gerados aleatoriamente a cada login)
+
+---
+
+## 🗂️ Diagrama do Projeto
+![img_diagrama](./img/diagrama.png)
 
 ---
 

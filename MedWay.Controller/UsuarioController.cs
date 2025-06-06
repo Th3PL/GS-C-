@@ -38,48 +38,84 @@ namespace MedWay.Controller
         public void Cadastrar()
         {
             Console.WriteLine("\n=== CADASTRO ===");
-            Console.Write("Nome: ");
-            string nome = Console.ReadLine();
-            Console.Write("Email: ");
-            string email = Console.ReadLine();
-            Console.Write("Senha: ");
-            string senha = Console.ReadLine();
-            Console.Write("Data de nascimento (dd/mm/aaaa): ");
-            DateTime dataNascimento = DateTime.Parse(Console.ReadLine());
 
-            Console.WriteLine("Selecione o Tipo Sanguíneo:");
-            foreach (var tipo in Enum.GetValues(typeof(TipoSanguineo)))
+            try
             {
-                Console.WriteLine($"{(int)tipo} - {tipo}");
+                Console.Write("Nome: ");
+                string nome = Console.ReadLine();
+
+                Console.Write("Email: ");
+                string email = Console.ReadLine();
+
+                string senha;
+                while (true)
+                {
+                    Console.Write("Senha (mínimo 1 número e 1 caractere especial): ");
+                    senha = Console.ReadLine();
+
+                    if (!ValidarSenha(senha))
+                    {
+                        Console.WriteLine("❌ A senha deve conter ao menos um número e um caractere especial.");
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+
+                DateTime dataNascimento;
+                while (true)
+                {
+                    Console.Write("Data de nascimento (dd/mm/aaaa): ");
+                    if (!DateTime.TryParse(Console.ReadLine(), out dataNascimento))
+                    {
+                        Console.WriteLine("❌ Data inválida. Tente novamente.");
+                        continue;
+                    }
+
+                    if (dataNascimento > DateTime.Today)
+                    {
+                        Console.WriteLine("❌ Data de nascimento não pode ser no futuro.");
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+
+                Console.WriteLine("Selecione o Tipo Sanguíneo:");
+                foreach (var tipo in Enum.GetValues(typeof(TipoSanguineo)))
+                {
+                    Console.WriteLine($"{(int)tipo} - {tipo}");
+                }
+
+                Console.Write("Digite o número correspondente: ");
+                int tipoSelecionado = int.Parse(Console.ReadLine());
+                var tipoSanguineo = (TipoSanguineo)tipoSelecionado;
+
+                var usuario = new Usuario
+                {
+                    Nome = nome,
+                    Email = email,
+                    Senha = senha,
+                    DataNascimento = dataNascimento,
+                    TipoSanguineo = tipoSanguineo,
+                    Cidade = "",
+                    Estado = ""
+                };
+
+                bool sucesso = _usuarioRepository.Cadastrar(usuario);
+
+                if (sucesso)
+                    Console.WriteLine("✅ Usuário cadastrado com sucesso!");
+                else
+                    Console.WriteLine("❌ Email já cadastrado.");
             }
-            Console.Write("Digite o número correspondente: ");
-            int tipoSelecionado = int.Parse(Console.ReadLine());
-            var tipoSanguineo = (TipoSanguineo)tipoSelecionado;
-
-            Console.Write("Cidade: ");
-            string cidade = Console.ReadLine();
-            Console.Write("Estado: ");
-            string estado = Console.ReadLine();
-
-            var usuario = new Usuario
+            catch (Exception ex)
             {
-                Nome = nome,
-                Email = email,
-                Senha = senha,
-                DataNascimento = dataNascimento,
-                TipoSanguineo = tipoSanguineo,
-                Cidade = cidade,
-                Estado = estado
-            };
-
-            bool sucesso = _usuarioRepository.Cadastrar(usuario);
-
-            if (sucesso)
-                Console.WriteLine("✅ Usuário cadastrado com sucesso!");
-            else
-                Console.WriteLine("❌ Email já cadastrado.");
+                Console.WriteLine($"❌ Ocorreu um erro no cadastro: {ex.Message}");
+            }
         }
-
         public void MostrarDadosUsuarioLogado()
         {
             if (_usuarioLogado == null)
@@ -119,7 +155,7 @@ namespace MedWay.Controller
             {
                 _usuarioLogado = _usuarioRepository.BuscarPorEmail(email);
 
-                // 🔥 Gerar localização aleatória ao logar
+
                 var localizacao = GerarLocalizacaoAleatoria();
                 _usuarioLogado.Cidade = localizacao.cidade;
                 _usuarioLogado.Estado = localizacao.estado;
@@ -164,6 +200,12 @@ namespace MedWay.Controller
             return _usuarioLogado != null;
         }
 
+        private bool ValidarSenha(string senha)
+        {
+            bool temNumero = senha.Any(char.IsDigit);
+            bool temEspecial = senha.Any(ch => !char.IsLetterOrDigit(ch));
+            return temNumero && temEspecial;
+        }
     }
 
 }

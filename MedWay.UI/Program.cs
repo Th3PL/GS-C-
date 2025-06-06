@@ -13,11 +13,11 @@ class Program
         bool logado = false;
         bool continuar = true;
 
-        // ✅ Tela de login obrigatória
+        // === Tela de Login Obrigatória ===
         while (!logado)
         {
             Console.Clear();
-            Console.WriteLine("=== 🔐 MedWay ===");
+            Console.WriteLine("=== 🔐 MedWay - Bem-vindo ao sistema ===");
             Console.WriteLine("1 - Fazer Login");
             Console.WriteLine("2 - Cadastrar Usuário");
             Console.WriteLine("0 - Sair");
@@ -32,7 +32,8 @@ class Program
                     logado = usuarioController.LoginRetornaStatus();
                     if (!logado)
                     {
-                        Console.WriteLine("\n❌ Falha no login. Pressione qualquer tecla para tentar novamente.");
+                        Console.WriteLine("\n❌ Falha no login. Verifique suas credenciais.");
+                        Console.WriteLine("Pressione qualquer tecla para tentar novamente...");
                         Console.ReadKey();
                     }
                     break;
@@ -40,7 +41,7 @@ class Program
                 case "2":
                     Console.Clear();
                     usuarioController.Cadastrar();
-                    Console.WriteLine("\n✅ Cadastro realizado. Pressione qualquer tecla para continuar.");
+                    Console.WriteLine("\nPressione qualquer tecla para continuar...");
                     Console.ReadKey();
                     break;
 
@@ -50,16 +51,19 @@ class Program
 
                 default:
                     Console.WriteLine("\n❌ Opção inválida.");
+                    Console.WriteLine("Pressione qualquer tecla para tentar novamente...");
                     Console.ReadKey();
                     break;
             }
         }
 
-        // ✅ Menu principal após login
+        // === Menu Principal ===
         while (continuar)
         {
             Console.Clear();
-            Console.WriteLine($"=== 🚀 MENU PRINCIPAL - Localização Atual: {usuarioController.ObterUsuarioLogado().Cidade}/{usuarioController.ObterUsuarioLogado().Estado} ===");
+            var usuario = usuarioController.ObterUsuarioLogado();
+
+            Console.WriteLine($"=== 🚀 MENU PRINCIPAL - Localização Atual: {usuario.Cidade}/{usuario.Estado} ===");
             Console.WriteLine("1 - Listar Hospitais Próximos");
             Console.WriteLine("2 - Listar Especialidades");
             Console.WriteLine("3 - Ver Dicas Comunitárias");
@@ -114,6 +118,7 @@ class Program
 
                 default:
                     Console.WriteLine("\n❌ Opção inválida.");
+                    Console.WriteLine("Pressione qualquer tecla para tentar novamente...");
                     Console.ReadKey();
                     break;
             }
